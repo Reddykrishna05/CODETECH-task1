@@ -1,8 +1,13 @@
 Name :Mula Krishna Reddy
+
 Company: CODETECH IT SOLUTION
+
 ID:CT08DS7555
+
 Domain: java programming
+
 Duration:August to september
+
 ----------------------------------
 
 Project Title: Basic Calculator
@@ -14,10 +19,15 @@ The goal of this project is to create a simple calculator that can perform basic
 Features:
 ------------
 Addition: Adds two numbers.
+
 Subtraction: Subtracts one number from another.
+
 Multiplication: Multiplies two numbers.
+
 Division: Divides one number by another, handling division by zero.
+
 Clear: Reset the values for new calculations.
+
 Exit: Option to close the application.
 
 Tools/Technologies Used:
